@@ -1,0 +1,19 @@
+body {
+    background-color: #dbc5c5;
+    margin: 0;
+    overflow: hidden;
+}
+
+#container {
+    position:relative;
+    left: 35%;
+    top: 10%;
+}
+
+canvas {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+button:hover {
+    background-color: rgb(182, 115, 115);
+}
